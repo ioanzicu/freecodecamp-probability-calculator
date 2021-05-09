@@ -41,4 +41,4 @@ Since this is based on random draws, the probability will be slightly different 
 
 ### Testing 
 
-The unit tests for this project are in `test_module.py`. I have imported the tests from `test_module.py` to `main.py` for your convenience. 
+The unit tests for this project are in `test_module.py`.
